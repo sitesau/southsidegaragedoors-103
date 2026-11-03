@@ -1,0 +1,22 @@
+{
+  "wheel_id": 712,
+  "structure": "umbrella",
+  "slug": "southsidegaragedoors-103",
+  "project": "garage-door-repairs-brisbane-how-to-choose-cededac390473182e557",
+  "parent_t1_ref": "southsidegaragedoors-151",
+  "node_role": "feeder",
+  "money_target": "southsidegaragedoors.com.au",
+  "primary_kw": "garage door repairs brisbane how to choose",
+  "intended_url": "https://sitesau.github.io/southsidegaragedoors-103/",
+  "tier": "T2",
+  "writeback_nonce": "157e5ddb8892c6ba",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/garage-door-repairs-brisbane-cost-guide-c88111f6aee3d0a6667362c/",
+      "anchor": "garage door repairs brisbane cost guide explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
